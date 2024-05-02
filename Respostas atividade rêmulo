@@ -1,1 +1,2 @@
 o código irá pedir um valor para definir o tamanho um vetor, que é um tipo de armazenamento que pode guardar mais de um item e que os mesmos podem ser acessados pela sua posição, e utilizaremos um laço "para" para ler as posições da lista, e se for vazio ele irá pedir para adicionar um número em uma variável do tipo real para aquela nota e adicionar o valor à uma outra variável que vai  receber a somatória de todas as notas , senão irá para a próxima posição e no final irá dividir pela quantidade das notas que foram informadas anteriormente
+link: tinyurl.com/ati2ds2
